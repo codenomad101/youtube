@@ -6,4 +6,4 @@ function ChannelDetail() {
   )
 }
 
-export default ChannelDetail
+export default ChannelDetail;
